@@ -1,3 +1,3 @@
-# Arch Linux + CUDA
+# Arch Linux + CUDA + LibTorch
 
- Arch Linux base image with the latest CUDA & CUDNN preinstalled. 
+ Arch Linux base image with the latest CUDA, CUDNN and LibTorch preinstalled. 
